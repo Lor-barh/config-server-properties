@@ -52,7 +52,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>lorbarh/${project.artifactId}</name>
+                        <name>loba1618/${project.artifactId}</name>
                     </image>
                 </configuration>
             </plugin>
